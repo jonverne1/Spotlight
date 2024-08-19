@@ -80,11 +80,7 @@ export default function About() {
               myself to type on.
             </p>
             <p>
-              The only thing I loved more than computers as a kid was space.
-              When I was 8, I climbed the 40-foot oak tree at the back of our
-              yard while wearing my older sister’s motorcycle helmet, counted
-              down from three, and jumped — hoping the tree was tall enough that
-              with just a bit of momentum I’d be able to get to orbit.
+              EAT shit coward.
             </p>
             <p>
               I spent the next few summers indoors working on a rocket design,

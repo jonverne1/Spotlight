@@ -80,7 +80,7 @@ export default function About() {
               myself to type on.
             </p>
             <p>
-              EAT shit coward.
+              I don't know what to write here right now.
             </p>
             <p>
               I spent the next few summers indoors working on a rocket design,

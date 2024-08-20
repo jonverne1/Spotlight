@@ -69,14 +69,13 @@ export default function About() {
         </div>
         <div className="lg:order-first lg:row-span-2">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            I’m Daniel, I leverage quantitative analysis to transform data into actionable insights, solving ecological and conservation challenges.
+            I’m Daniel, I leverage quantitative analysis to solve ecological and conservation challenges.
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
-              I’ve loved making things for as long as I can remember, and wrote
-              my first program when I was 6 years old, just two weeks after my
-              mom brought home the brand new Macintosh LC 550 that I taught
-              myself to type on.
+              After a decade in conservation research I identified a niche for myself as an 
+              ecological data specialist. I've employed software solutions to common issues throughout the field 
+              from database management, statistical visualization, to machine learning algorithms. 
             </p>
             <p>
               I don't know what to write here right now.
